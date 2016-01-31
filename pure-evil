@@ -1,1 +1,1 @@
-alias ls='echo Segmentation\ Fault.'
+alias ls='echo Segmentation\ Fault.' #evil
